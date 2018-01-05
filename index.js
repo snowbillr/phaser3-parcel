@@ -1,7 +1,7 @@
 import 'phaser';
 
 const config = {
-  type: Phaser.WEBGL,
+  type: Phaser.AUTO,
   parent: 'game',
   width: 640,
   height: 480,
