@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.4.1"
+  },
+  "dependencies": {
+    "phaser": "^3.0.0-beta.14"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  }
+}
