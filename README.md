@@ -5,4 +5,4 @@ I wanted to see if I could get [Phaser 3](https://github.com/photonstorm/phaser/
 Clone the repo and install and run the project with these steps:
 1. `yarn install`
 1. `yarn dev`
-1. Visit `localhost:1234`
+1. Visit `localhost:1234` in a web browser
